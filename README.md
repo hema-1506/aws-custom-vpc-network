@@ -21,6 +21,8 @@ Perform network connectivity and DNS resolution tests.
 Document the architecture and implementation.
 
 **Network Architecture**
+<img width="682" height="980" alt="Architecture (1)" src="https://github.com/user-attachments/assets/dfffd746-fa30-4f08-9ed5-c1dea5d9b263" />
+
 **AWS Region**: Europe (Ireland) – eu-west-1
 **VPC CID**R: 10.20.0.0/16
 The network consists of:
